@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Displays\ the\ menu\ to\ the\ user\ and\ processes\ their\ choices\r\n\r\n\ @author\ Sadie\ Coffield\r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\r\n\ @param\ args\ Command\ line\ parameters\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ Method\ that\ displays\ the\ main\ menu\ to\ the\ user\ \r\n
+comment3.params=
+comment3.target=void\ displayPauseMenu()
+comment3.text=\r\n\ Method\ that\ displays\ the\ pause\ menu\ to\ the\ user\ \r\n
+comment4.params=
+comment4.target=int\ processUserChoice()
+comment4.text=\r\n\ Method\ that\ processes\ the\ user's\ choices\ \r\n
+comment5.params=
+comment5.target=void\ displayRules()
+comment5.text=\r\n\ Displays\ the\ rules\ of\ the\ game\ to\ the\ user\r\n
+numComments=6

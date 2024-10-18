@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Contains\ the\ actions\ that\ need\ to\ be\ carried\ out\ for\ each\ player.\r\n\r\n\ @author\ Sadie\ Coffield\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=int\ generateDiceRoll()
+comment1.text=\r\n\ Method\ to\ generate\ a\ random\ number\ between\ 1\ and\ 6\ \r\n
+comment2.params=
+comment2.target=int\ generateP1DiceRoll()
+comment2.text=\r\n\ Method\ that\ assigns\ a\ random\ number\ generated\ to\ player\ 1.\r\n
+comment3.params=
+comment3.target=int\ generateP2DiceRoll()
+comment3.text=\r\n\ Method\ that\ assigns\ a\ random\ number\ generated\ to\ player\ 2.\r\n
+comment4.params=
+comment4.target=void\ playerTurn()
+comment4.text=\r\n\ Method\ that\ changes\ between\ each\ player\ in\ turn.\ The\ players\ \r\n\ will\ be\ able\ to\ roll\ the\ dice,\ pause\ the\ game\ or\ exit\ the\ game\r\n\ on\ every\ turn.\r\n
+numComments=5
